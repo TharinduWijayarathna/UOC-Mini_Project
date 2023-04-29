@@ -8,5 +8,8 @@ use Illuminate\Http\Request;
 
 class AdminUserController extends ParentController
 {
-    //
+    public function index()
+    {
+        return view('pages.admin.users.index');
+    }
 }
