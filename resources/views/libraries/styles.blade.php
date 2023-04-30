@@ -5,3 +5,6 @@
 <link rel="stylesheet" href="{{ asset('assets/plugins/morrisjs/morris.min.css') }}" />
 <!-- Custom Css -->
 <link rel="stylesheet" href="{{ asset('assets/css/style.min.css') }}">
+
+<link rel="stylesheet" href="{{ asset('assets/plugins/footable-bootstrap/css/footable.bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/plugins/footable-bootstrap/css/footable.standalone.min.css') }}">
